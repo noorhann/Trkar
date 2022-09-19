@@ -1,0 +1,16 @@
+INSERT INTO `cities`(`id`, `name_ar`, `name_en`, `country_id`, `status`) VALUES (1, ' الشرقيه','Eastern', 187, 1);
+INSERT INTO `cities`(`id`, `name_ar`, `name_en`, `country_id`, `status`) VALUES (2, ' الرياض','Riyadh', 187, 1);
+INSERT INTO `cities`(`id`, `name_ar`, `name_en`, `country_id`, `status`) VALUES (3, ' مكة المكرمة','Mecca', 187, 1);
+INSERT INTO `cities`(`id`, `name_ar`, `name_en`, `country_id`, `status`) VALUES (4, ' المدينة المنورة','Medina', 187, 1);
+INSERT INTO `cities`(`id`, `name_ar`, `name_en`, `country_id`, `status`) VALUES (5, ' القصيم','Al-Qassim', 187, 1);
+INSERT INTO `cities`(`id`, `name_ar`, `name_en`, `country_id`, `status`) VALUES (6, ' عسير','Asir', 187, 1);
+INSERT INTO `cities`(`id`, `name_ar`, `name_en`, `country_id`, `status`) VALUES (7, ' تبوك','Tabuk', 187, 1);
+INSERT INTO `cities`(`id`, `name_ar`, `name_en`, `country_id`, `status`) VALUES (8, ' حائل','Ḥaail', 187, 1);
+INSERT INTO `cities`(`id`, `name_ar`, `name_en`, `country_id`, `status`) VALUES (9, ' الحدود الشمالية','Northern Borders', 187, 1);
+INSERT INTO `cities`(`id`, `name_ar`, `name_en`, `country_id`, `status`) VALUES (10, ' جازان','Jazan', 187, 1);
+INSERT INTO `cities`(`id`, `name_ar`, `name_en`, `country_id`, `status`) VALUES (11, ' نجران','Najran', 187, 1);
+INSERT INTO `cities`(`id`, `name_ar`, `name_en`, `country_id`, `status`) VALUES (12, ' الباحة','Al-Bahah', 187, 1);
+INSERT INTO `cities`(`id`, `name_ar`, `name_en`, `country_id`, `status`) VALUES (13, ' الجوف','Al-Jawf', 187, 1);
+INSERT INTO `cities`(`id`, `name_ar`, `name_en`, `country_id`, `status`) VALUES (14, ' القاهرة','Cairo', 63, 1);
+INSERT INTO `cities`(`id`, `name_ar`, `name_en`, `country_id`, `status`) VALUES (15, ' الجيزة','giza', 63, 1);
+INSERT INTO `cities`(`id`, `name_ar`, `name_en`, `country_id`, `status`) VALUES (16, 'الإسكندرية','Alexandria', 63, 1);
